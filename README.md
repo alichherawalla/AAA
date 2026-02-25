@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **268** 🎉
+**AWESOME** apps counter: **269** 🎉
 
 ### Contents
 
@@ -244,6 +244,17 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [Official page](https://exodus-privacy.eu.org/)
 
 ## AI
+
+### Off Grid
+
+> On-device AI suite — run LLMs, vision models, and Stable Diffusion on your phone. Fully offline, no API keys, no data leaving your device.
+
+<img alt="OffGridIcon" height="64" src="https://raw.githubusercontent.com/alichherawalla/off-grid-mobile/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=ai.offgridmobile)
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/alichherawalla/off-grid-mobile)
+- [x] [App Store](https://apps.apple.com/in/app/off-grid-on-device-ai/id6740649499)
 
 ### whoBIRD
 
