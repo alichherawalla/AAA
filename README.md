@@ -27,7 +27,6 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 **AWESOME** apps counter: **273** 🎉
 
-
 ### Contents
 
 - [2FA](#2fa)
@@ -392,6 +391,15 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [F-Droid](https://f-droid.org/packages/org.koitharu.kotatsu/)
 - [x] [GitHub](https://github.com/KotatsuApp/Kotatsu)
 - [x] [Official page](https://kotatsu.app/)
+
+### IReader
+
+<img alt="IReaderIcon" height="64" src="https://raw.githubusercontent.com/IReaderorg/IReader/master/android/src/devPreview/res/mipmap-xxxhdpi/ic_launcher_monochrome.png">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/IReaderorg/IReader)
+- [x] [Official page](https://ireaderorg.netlify.app/)
 
 ## App Backup
 
@@ -867,15 +875,6 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [F-Droid](https://f-droid.org/en/packages/org.fdroid.fdroid/)
 - [x] [GitLab](https://gitlab.com/fdroid/fdroidclient)
 - [x] [Official page](https://f-droid.org/)
-
-### Aurora Droid
-
-<img alt="AuroraDroidIcon" height="64" src="https://gitlab.com/AuroraOSS/auroradroid/-/raw/master/app/src/main/ic_launcher-web.png">
-
-- [ ] Google Play
-- [ ] F-Droid
-- [x] [GitLab](https://gitlab.com/AuroraOSS/auroradroid)
-- [x] [Official page](https://auroraoss.com/)
 
 ### Droid-ify :heart:
 
