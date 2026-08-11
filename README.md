@@ -25,7 +25,8 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **269** 🎉
+**AWESOME** apps counter: **273** 🎉
+
 
 ### Contents
 
@@ -718,6 +719,16 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [GitHub](https://github.com/TachibanaGeneralLaboratories/download-navi)
 - [ ] Official page
 
+
+### AB Download Manager
+
+<img alt="DownloadNaviIcon" height="64" src="https://github.com/amir1376/ab-download-manager/raw/master/assets/logo/app_logo_with_background.svg">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/amir1376/ab-download-manager)
+- [x] [Official page](https://abdownloadmanager.com)
+
 ## Discord
 
 ### Aliucord
@@ -883,6 +894,15 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [F-Droid](https://www.f-droid.org/packages/com.machiav3lli.fdroid/)
 - [x] [GitHub](https://github.com/NeoApplications/Neo-Store)
 - [ ] Official page
+
+### Florid
+
+<img alt="FloridIcon" height="64" src="https://raw.githubusercontent.com/Nandanrmenon/florid/main/assets/Florid.svg">
+
+* [ ] Google Play
+* [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.nahnah.florid)
+* [x] [GitHub](https://github.com/Nandanrmenon/florid)
+* [x] [Official page](https://www.nandanmenon.dev/florid)
 
 ## File Manager
 
@@ -1399,13 +1419,14 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [ ] Official page
 
 ### Fcitx5 for Android :heart:
+
 <img alt="Fcitx5ForAndroidIcon" height="64" src="https://raw.githubusercontent.com/fcitx5-android/fcitx5-android/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
 > Supports input for Chinese, Japanese, Korean, and more
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.fcitx.fcitx5.android)
 - [x] [F-Droid](https://f-droid.org/packages/org.fcitx.fcitx5.android/)
-- [x] [Source code](https://github.com/fcitx5-android/fcitx5-android)
+- [x] [GitHub](https://github.com/fcitx5-android/fcitx5-android)
 - [x] [Official page](https://fcitx5-android.github.io/en/)
 
 ### FlorisBoard
@@ -1426,6 +1447,17 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.dessalines.thumbkey)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.dessalines.thumbkey/)
 - [x] [GitHub](https://github.com/dessalines/thumb-key)
+- [ ] Official page
+
+### Unexpected Keyboard
+
+<img alt="UnexpectedKeyboardIcon" height="64" src="https://raw.githubusercontent.com/Julow/Unexpected-Keyboard/master/res/mipmap-xxxhdpi/ic_launcher.png">
+
+> Lightweight and privacy-conscious keyboard, originally designed for Termux
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=juloo.keyboard2)
+- [x] [F-Droid](https://f-droid.org/packages/juloo.keyboard2/)
+- [x] [GitHub](https://github.com/Julow/Unexpected-Keyboard)
 - [ ] Official page
 
 ## Knowledge
@@ -1554,6 +1586,15 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/en/packages/app.organicmaps/)
 - [x] [GitHub](https://github.com/organicmaps/organicmaps)
 - [x] [Official page](https://organicmaps.app/)
+
+### CoMaps
+
+<img alt="CoMapsIcon" height="64" src="https://codeberg.org/comaps/comaps/media/branch/main/docs/badges/logo.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=app.comaps.google)
+- [x] [F-Droid](https://f-droid.org/ru/packages/app.comaps.fdroid/)
+- [x] [GitHub](https://github.com/comaps/comaps) / [Codeberg](https://codeberg.org/comaps/comaps)
+- [x] [Official page](https://www.comaps.app/)
 
 ### OsmAnd
 
